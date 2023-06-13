@@ -76,3 +76,7 @@ input[type='submit']{
   display: flex;
   
 }
+
+form h3{
+  text-align: center;
+}
